@@ -37,10 +37,10 @@ defaults:
 topics:
   - name: Writing
     web_url: https://medium.com/@lawrencereddy
-    image_url: https://imgur.com/X2h7213
+    image_url: 
 
   - name: Editing
 
   - name: Reading
     web_url: 
-    image_url: https://imgur.com/a/k9sGT2z
+    image_url: 
